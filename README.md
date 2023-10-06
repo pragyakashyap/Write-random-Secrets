@@ -7,7 +7,10 @@ The Secret Sharing Website allows users to register, log in anonymously, and sha
 
 ### Features
 
-It involves learning of :
+- Anyone can register with email and password and once logged in can post random secrets anonymously.
+- The user data is being saved on MongoDB Atlas.
+
+#### It involves learning of :
  - Authentication and keeping user details secure.
  - Encryption and use encryption to keep the database secure.
  - implement Hashing and Salting with bcrypt
